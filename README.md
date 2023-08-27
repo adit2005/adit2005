@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adit2005](https://github.com/adit2005)
 
-- 💬 Ask me about **ML,EDA,PYTHON,DSA**
+- 💬 Ask me about **ML,EDA,PYTHON,DSA,C++**
 
 - 📫 How to reach me **adityaschauhan346@gmail.com**
 
@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-singh-chauhan-41767b248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-singh-chauhan-41767b248/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/adityaschauhan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityaschauhan21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/adit2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adit2005/" height="30" width="40" /></a>
 </p>
 
