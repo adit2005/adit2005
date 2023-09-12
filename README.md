@@ -27,9 +27,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="adit2005" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="adit2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adit2005&theme=vue-dark&hide_border=true" alt="adit2005" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="adit2005" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="adit2005" /></p>
 <p><img align="center" src="https://leetcard.jacoblin.cool/adit2005?theme=light&font=Basic&ext=heatmap" alt="adit2005" /></p>" 
