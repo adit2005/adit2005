@@ -29,23 +29,23 @@
 
 <div style="flex: 1; padding: 10px; margin-left: -10px;">
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="adit2005" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="adit2005" />
     </p>
 </div>
 <div style="flex: 1; padding: 10px;">
     <p>
         <a href="https://git.io/streak-stats">
-            <img align="right" src="https://streak-stats.demolab.com?user=adit2005&theme=dark" alt="GitHub Streak" />
+            <img align="center" src="https://streak-stats.demolab.com?user=adit2005&theme=dark" alt="GitHub Streak" />
         </a>
     </p>
 </div>
 <div style="flex: 1; padding: 10px;">
     <p>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="adit2005" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="adit2005" />
     </p>
 </div>
 <div style="flex: 1; padding: 10px;">
     <p>
-        <img align="left" src="https://leetcard.jacoblin.cool/adit2005?theme=light&font=Basic&ext=heatmap" alt="adit2005" />
+        <img align="center" src="https://leetcard.jacoblin.cool/adit2005?theme=light&font=Basic&ext=heatmap" alt="adit2005" />
     </p>
 </div>
