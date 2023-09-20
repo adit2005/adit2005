@@ -43,4 +43,4 @@
         <img align="center" src="https://leetcard.jacoblin.cool/adit2005?theme=light&font=Basic&ext=heatmap" alt="adit2005" />
     </p>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adit2005&" alt="lakshaybansal879" /></p>
+
