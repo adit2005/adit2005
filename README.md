@@ -38,6 +38,11 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="adit2005" />
     </p>
 </div>
+<div align="left">
+  <a href="https://github.com/adit2005">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adit2005&theme=radical&border=7F3FBF&background=0D1117" alt="Aditya's GitHub streak"/>
+  </a>
+</p>
 <div style="flex: 1; padding: 10px;">
     <p>
         <img align="center" src="https://leetcard.jacoblin.cool/adit2005?theme=light&font=Basic&ext=heatmap" alt="adit2005" />
