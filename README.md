@@ -30,6 +30,7 @@
 [![An image of @adit2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adit2005)](https://holopin.io/@adit2005)
 
 
+
 <div style="flex: 1; padding: 10px; margin-left: -10px;">
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=adit2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="adit2005" />
