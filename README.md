@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MACHINE LEARNING,DATA STRUCTURES AND ALGORITHMS**
 
-- 👯 I’m looking to collaborate on **DATA ANALYSIS,MACHINE LEARNING PROJECTS**
+- 👯 I’m looking to collaborate on **DATA ANALYSIS,MACHINE LEARNING and DEEP LEARNING PROJECTS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adit2005](https://github.com/adit2005)
 
-- 💬 Ask me about **ML,EDA,PYTHON,DSA,C++**
+- 💬 Ask me about **ML, NLP, EDA, PYTHON, DSA, C++, JS**
 
 - 📫 How to reach me **adityaschauhan346@gmail.com**
 
