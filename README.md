@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADITYA SINGH CHAUHAN</h1>
-<h3 align="center">A passionate DATA ANALYST,FRONTEND DEVELOPER and ML ENTHUSIAST from India</h3>
+<h3 align="center">Passionate about full-stack development, machine learning, and generative AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit2005&label=Profile%20views&color=0e75b6&style=flat" alt="adit2005" /> </p>
 
