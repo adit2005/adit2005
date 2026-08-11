@@ -15,15 +15,16 @@
 * Software Engineer working in Backend and Big Data
 * Strong hold on System Design and Core CS fundamentals
 * Experienced in building scalable backend and data-intensive systems
-* Strong foundation in Data Structures & Algorithms, OOP, DBMS, OS and Computer Networks
+* Strong foundation in Data Structures & Algorithms, OOPs, DBMS, OS and Computer Networks
 
-### Tech Stack
+### Skills
 
-* Languages: Python, JavaScript, C++, SQL
-* Backend: Node.js, FastAPI, REST APIs
-* Big Data: Apache Spark, PySpark, Databricks
-* Databases: MySQL, MongoDB
-* Cloud: AWS
+* Languages: Python, C++, SQL, JavaScript
+* Backend Development: FastAPI, REST APIs, Node.js, Express.js, Microservices
+* Big Data & Data Engineering: Apache Spark, PySpark, Spark SQL, Azure Databricks, ETL Pipelines, PostgreSQL, AWS EMR, AWS S3
+* Tools & Technologies: Git, GitHub, Docker, Azure, MongoDB
+* Core CS: Data Structures & Algorithms, OOPs, DBMS, Operating Systems, Computer Networks
+* System Design: Low-Level Design (LLD), High-Level Design (HLD), Scalable System Architecture
 
 ### Connect With Me
 
