@@ -20,7 +20,7 @@
 ### Tech Stack
 
 * Languages: Python, JavaScript, C++, SQL
-* Backend: Flask, Node.js, REST APIs
+* Backend: Node.js, FastAPI, REST APIs
 * Big Data: Apache Spark, PySpark, Databricks
 * Databases: MySQL, MongoDB
 * Cloud: AWS
